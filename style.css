@@ -251,6 +251,7 @@ box-shadow: -.6rem .6rem .6rem rgba(0,0,0,.1);
    position: relative;
    padding-left: 1.6rem;
    margin-bottom: .6rem;
+   margin-top: 1rem;
 }
 
 .workeduc-box .workeduc-content::before {
@@ -421,7 +422,7 @@ margin: 1rem 0 1.5rem;
 }
 .info-box .info-tittle{
    text-align: center;
-   font-size: 1.2rem;
+   font-size: 0.3rem;
 }
 .contact-box .field{
    width: 100%;
@@ -483,4 +484,7 @@ cursor: pointer;
 }
 .top{
    margin-top: 3rem;
+}
+.text-blue{
+   --cover-color: linear-gradient(45deg, #00abf0, #006e9a);
 }
