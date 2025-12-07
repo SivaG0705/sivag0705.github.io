@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
             const email = document.getElementById("email").value.trim();
             const message = document.getElementById("message").value.trim();
 
-            emailjs.send("service_zpg8y0p", "template_sdpstm1", {
+            emailjs.send("service_nsfyzx8", "template_sdpstm1", {
                 name: name,
                 email: email,
                 message: message,
